@@ -1,5 +1,6 @@
 import static org.junit.jupiter.api.Assertions.*;
 
+
 class DynamicArrayTest {
 
     private DynamicArray<Integer> integerDynamicArray;
